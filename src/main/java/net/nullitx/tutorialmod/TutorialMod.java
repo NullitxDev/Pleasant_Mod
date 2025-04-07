@@ -18,7 +18,7 @@ import org.slf4j.Logger;
 public class TutorialMod
 {
     // Define mod id in a common place for everything to reference
-    public static final String MOD_ID = "Nullitx_Tutorial_Mod";
+    public static final String MOD_ID = "nullitx_tutorial_mod";
     // Directly reference a slf4j logger
     private static final Logger LOGGER = LogUtils.getLogger();
 
