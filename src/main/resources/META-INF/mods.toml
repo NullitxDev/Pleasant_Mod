@@ -41,7 +41,7 @@ authors="Nullitx" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description='''ts tutorial mod pmo'''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
-[[dependencies.${mod_id}]] #optional
+[[dependencies.nullitx_tutorial_mod]] #optional
     # the modid of the dependency
     modId="forge" #mandatory
     # Does this dependency have to exist - if not, ordering below must be specified
