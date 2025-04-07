@@ -12,6 +12,8 @@ public class ModItems {
             DeferredRegister.create(ForgeRegistries.ITEMS, TutorialMod.MOD_ID);
 
     public static final RegistryObject<Item> SPRINGIUM = ITEMS.register("springium", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> CRUDE_SPRINGIUM = ITEMS.register("crude_springium", () -> new Item(new Item.Properties()));
+
 
     public static void register(IEventBus eventBus){
         ITEMS.register(eventBus);

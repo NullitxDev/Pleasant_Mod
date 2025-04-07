@@ -1,3 +1,6 @@
 {
-  "item.pleasant_mod.springium": "Springium"
+  "item.pleasant_mod.springium": "Springium",
+  "item.pleasant_mod.crude_springium": "Crude Springium",
+
+  "creativetab.pleasant_tab": "Pleasant Mod"
 }
